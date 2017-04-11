@@ -29,8 +29,9 @@ documentation](http://electron.atom.io/docs/v0.37.8/).
 * Node JS version 5.3 or higher
 * NPM
 
-On Linux, you also need the `icnsutils`, `graphicsmagick`, and
-`xz-utils` packages.
+On Linux, you also need the `icnsutils` (or `libicns` on Fedora-derived
+distros), `graphicsmagick` (or `GraphicsMagick`), and `xz-utils` (or `xz`)
+packages.
 
 ### Running
 
